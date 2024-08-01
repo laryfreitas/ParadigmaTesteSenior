@@ -1,0 +1,75 @@
+C:\Users\laryssa.dara\Desktop\Nova pasta\ParadigmaTeste\ParadigmaTeste\bin\Debug\ParadigmaTeste.exe.config
+C:\Users\laryssa.dara\Desktop\Nova pasta\ParadigmaTeste\ParadigmaTeste\bin\Debug\ParadigmaTeste.exe
+C:\Users\laryssa.dara\Desktop\Nova pasta\ParadigmaTeste\ParadigmaTeste\bin\Debug\ParadigmaTeste.pdb
+C:\Users\laryssa.dara\Desktop\Nova pasta\ParadigmaTeste\ParadigmaTeste\obj\Debug\ParadigmaTeste.csproj.AssemblyReference.cache
+C:\Users\laryssa.dara\Desktop\Nova pasta\ParadigmaTeste\ParadigmaTeste\obj\Debug\ParadigmaTeste.csproj.CoreCompileInputs.cache
+C:\Users\laryssa.dara\Desktop\Nova pasta\ParadigmaTeste\ParadigmaTeste\obj\Debug\ParadigmaTeste.exe
+C:\Users\laryssa.dara\Desktop\Nova pasta\ParadigmaTeste\ParadigmaTeste\obj\Debug\ParadigmaTeste.pdb
+C:\Users\laryssa.dara\Desktop\Teste Completo\Tarefa 2\ParadigmaTeste\bin\Debug\ParadigmaTeste.exe.config
+C:\Users\laryssa.dara\Desktop\Teste Completo\Tarefa 2\ParadigmaTeste\bin\Debug\ParadigmaTeste.exe
+C:\Users\laryssa.dara\Desktop\Teste Completo\Tarefa 2\ParadigmaTeste\bin\Debug\ParadigmaTeste.pdb
+C:\Users\laryssa.dara\Desktop\Teste Completo\Tarefa 2\ParadigmaTeste\obj\Debug\ParadigmaTeste.csproj.AssemblyReference.cache
+C:\Users\laryssa.dara\Desktop\Teste Completo\Tarefa 2\ParadigmaTeste\obj\Debug\ParadigmaTeste.csproj.CoreCompileInputs.cache
+C:\Users\laryssa.dara\Desktop\Teste Completo\Tarefa 2\ParadigmaTeste\obj\Debug\ParadigmaTeste.exe
+C:\Users\laryssa.dara\Desktop\Teste Completo\Tarefa 2\ParadigmaTeste\obj\Debug\ParadigmaTeste.pdb
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\ParadigmaTeste.exe.config
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\ParadigmaTeste.exe
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\ParadigmaTeste.pdb
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\obj\Debug\ParadigmaTeste.csproj.AssemblyReference.cache
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\obj\Debug\ParadigmaTeste.csproj.CoreCompileInputs.cache
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\obj\Debug\ParadigmaTeste.exe
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\obj\Debug\ParadigmaTeste.pdb
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\obj\Debug\ParadigmaTeste.Properties.Resource.resources
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\obj\Debug\ParadigmaTeste.csproj.GenerateResource.cache
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\xunit.abstractions.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\Castle.Core.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\Moq.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\System.Collections.Immutable.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\xunit.assert.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\xunit.core.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\xunit.execution.desktop.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\Castle.Core.xml
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\Moq.xml
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\System.Collections.Immutable.xml
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\xunit.assert.xml
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\xunit.core.xml
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\xunit.execution.desktop.xml
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\laryssa.dara\Downloads\ParadigmaTeste-main\ParadigmaTeste-main\Tarefa 2\ParadigmaTeste\obj\Debug\Paradigm.2DED0C44.Up2Date
